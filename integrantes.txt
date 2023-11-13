@@ -1,0 +1,15 @@
+Kaique Maia Reis Silva - RM552112 
+Pedro H Alves Guariente - RM550301
+Orlando Akio Morii Cardoso - RM98067
+David de Medeiros Pacheco Junior - RM551462
+Luan Nijou - RM98920
+
+
+O projeto realizado para esta sprint é um sistema de estacionamento que tem controle sobre todos os carros que 
+entram e saem, mostrando também a data e horário em que tais entraram ou sairam do estacionamento, mostra as vagas 
+disponíveis em tempo real de acordo com a quantidade de carros no estabelecimento. 
+
+
+
+O código cumpre todos as exigências e critérios pedidos, entre eles:
+Loops, Tratamento de excessões, Menu, uso e manipulação de dados em Listas/Váriaveis, entre outros.
