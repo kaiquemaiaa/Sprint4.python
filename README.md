@@ -1,2 +1,2 @@
-sistema de estacionamento ]
+sistema de estacionamento 
 mais informações no integrantes.txt
